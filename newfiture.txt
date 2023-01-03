@@ -1,1 +1,2 @@
 console.log("code dari computer B")
+console.log("code ini dari computer A")
